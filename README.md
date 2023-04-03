@@ -16,7 +16,7 @@ I hope that we can build a friendship and share one point or two about developme
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDFEFE&height=120&section=footer"/>
 
-## 🖥 IDE that I alredy use
+## 🖥 IDE that I already use
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org)
 
@@ -29,7 +29,7 @@ I hope that we can build a friendship and share one point or two about developme
 
 ## 🌐 My Social Medias
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loolcas/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notLoolcas)
 
 <div align="center">
 
