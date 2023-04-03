@@ -39,3 +39,7 @@ I hope that we can build a friendship and share one point or two about developme
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolcas&layout=compact&show_icons=true&theme=maroongold"/>
 
 </div>
+
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/loolcas/count.svg" /></p>
+
+![snake gif](https://github.com/loolcas/loolcas/blob/output/github-contribution-grid-snake.svg)
