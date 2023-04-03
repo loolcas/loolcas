@@ -21,6 +21,10 @@ I hope that we can build a friendship and share one point or two about developme
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=loolcas&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loolcas&show_icons=true&theme=maroongold)
+
 ## 🖍 Design
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
