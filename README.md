@@ -20,10 +20,12 @@ I hope that we can build a friendship and share one point or two about developme
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+<br/><br/><br/>
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loolcas&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loolcas&show_icons=true&theme=maroongold)
+</div>
 
 ## 🖍 Design
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
@@ -36,3 +38,9 @@ I hope that we can build a friendship and share one point or two about developme
 ## 📚 Education
 - Systems Development Technical Course (2023) ✔
 - ONE(Oracle Next Education) ▫▫▫
+<br/><br/><br/>
+<div align="center">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loolcas&show_icons=true&theme=maroongold)
+  
+</div>
