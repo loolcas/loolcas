@@ -42,4 +42,8 @@ I hope that we can build a friendship and share one point or two about developme
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/loolcas/count.svg" /></p>
 
-![snake gif](https://github.com/loolcas/loolcas/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://github.com/loolcas/loolcas/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
