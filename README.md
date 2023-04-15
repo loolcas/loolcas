@@ -16,7 +16,7 @@ I hope that we can build a friendship and share one point or two about developme
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDFEFE&height=120&section=footer"/>
 
-## 🖥 IDE that I already use
+## 🖥 IDE that I already used
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org)
 
