@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDFEFE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=0:E9E9E9,100:A4A4A4&height=150&text=Enable+Dark+Mode&fontSize=35&fontColor=111111&textBg=falseg&fontAlign=80&fontAlignY=27&desc=for+better+viewing!&descSize=22&descAlign=80&descAlignY=44&rotate=8.75&animation=blinking"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDFEFE&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+I'm+Lucas+de+Moraes;I'm+21+years+old;🔰+Proudly+brazilian!+🔰;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@ I hope that we can build a friendship and share one point or two about developme
 - Systems Development Technical Course (2023) ✅
 - ONE(Oracle Next Education) 🔜
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDFEFE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=0:E9E9E9,100:A4A4A4&height=150&section=footer"/>
 
 ## 🖥 IDE that I already used
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
