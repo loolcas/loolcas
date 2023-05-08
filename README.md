@@ -33,8 +33,8 @@ I hope that we can build a friendship and share one point or two about developme
 
 <br>
 <div align="center">
-<img height="170em" src="https://readmestats.999857.xyz/api?username=loolcas&show_icons=true&theme=transparent"/>
-<img height="170em" src="https://readmestats.999857.xyz/api/top-langs/?username=loolcas&layout=compact&show_icons=true&theme=transparent"/>
+<img height="150em" src="https://readmestats.999857.xyz/api?username=loolcas&show_icons=true&theme=transparent"/>
+<img height="150em" src="https://readmestats.999857.xyz/api/top-langs/?username=loolcas&layout=compact&show_icons=true&theme=transparent"/>
 </div>
 
 <br/>
