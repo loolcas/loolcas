@@ -31,11 +31,10 @@ I hope that we can build a friendship and share one point or two about developme
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loolcas/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notLoolcas)
 
+<br>
 <div align="center">
-
-<img height="180em" src="https://readmestats.999857.xyz/api?username=loolcas&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=loolcas&layout=compact&show_icons=true&theme=transparent"/>
-
+<img height="170em" src="https://readmestats.999857.xyz/api?username=loolcas&show_icons=true&theme=transparent"/>
+<img height="170em" src="https://readmestats.999857.xyz/api/top-langs/?username=loolcas&layout=compact&show_icons=true&theme=transparent"/>
 </div>
 
 <br/>
