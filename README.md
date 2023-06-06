@@ -4,7 +4,7 @@
 
 ##
 
-Sou um estudante de back-end porém tenho experiências com front-end, UI e UX, busco por evolução como desenvolvedor a fim de me consolidar como júnior.
+Sou um estudante de desenvolvimento back-end na linguagem Java, buscando me consolidar como júnior.
 
 Fascinado sobre internet, design e jogos desde que eu tinha 10 anos, hoje procuro aumentar minhas habilidades no campo da programação.
 
