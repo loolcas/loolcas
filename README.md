@@ -11,7 +11,7 @@ Fascinado sobre internet, design e jogos desde que eu tinha 10 anos, hoje procur
 Espero que possamos construir uma amizade e trocar um ponto ou dois a respeito de desenvolvimento. 😄
 
 ## 📚 Educação
-- Systems Development Technical Course (2023) ✅
+- Curso Técnico de Desenvolvimento de Sistemas (2023) ✅
 - ONE(Oracle Next Education) 🔜
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=0:E9E9E9,100:A4A4A4&height=150&section=footer"/>
@@ -20,7 +20,7 @@ Espero que possamos construir uma amizade e trocar um ponto ou dois a respeito d
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org)
 
-## 👩‍💻 Aprendendo
+## 👩‍💻 Habilidades
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://pt.wikipedia.org/wiki/CSS3#:~:text=CSS3%20é%20a%20terceira%20mais,web%20(página%20de%20internet).)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://pt.wikipedia.org/wiki/JavaScript)
