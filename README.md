@@ -33,8 +33,8 @@ Espero que possamos construir uma amizade e trocar um ponto ou dois a respeito d
 
 <br>
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=loolcas&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolcas&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=loolcas&show_icons=true&theme=city_lights"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loolcas&layout=compact&theme=city_lights"/>
 </div>
 
 <br/>
